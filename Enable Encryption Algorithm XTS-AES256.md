@@ -18,5 +18,5 @@
 	  𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 [𝙰𝚙𝚙𝚕𝚢] 𝚊𝚗𝚍 [𝚘𝚔]	
 [![2.png](https://i.postimg.cc/fyDF08LZ/2.png)](https://postimg.cc/phckwYz1)
 
-	# Now with BitLocker you can encrypt your data with XTS-AES256 Algorithm
-	# see in the folder BitLockerEncrypt.md
+	# 𝙽𝚘𝚠 𝚠𝚒𝚝𝚑 𝙱𝚒𝚝𝙻𝚘𝚌𝚔𝚎𝚛 𝚢𝚘𝚞 𝚌𝚊𝚗 𝚎𝚗𝚌𝚛𝚢𝚙𝚝 𝚢𝚘𝚞𝚛 𝚍𝚊𝚝𝚊 𝚠𝚒𝚝𝚑 𝚇𝚃𝚂-𝙰𝙴𝚂𝟸𝟻𝟼 𝙰𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖
+	# 𝚜𝚎𝚎 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚘𝚕𝚍𝚎𝚛 𝙱𝚒𝚝𝙻𝚘𝚌𝚔𝚎𝚛𝙴𝚗𝚌𝚛𝚢𝚙𝚝.𝚖𝚍
